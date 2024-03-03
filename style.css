@@ -27,7 +27,7 @@ body {
 
 .Encritpar {
   color: #d8dfe8;
-  margin-left: 10%;
+  margin-left: 20%;
   font-weight: bold;
   width: 20%;
   padding: 24px;
@@ -61,7 +61,7 @@ body {
 
 textarea {
   text-indent: 5%;
-  margin-left: 45%;
+  margin-left: 75%;
   background-color: transparent;
   border-inline-color: black;
   background-image: url(imagenes/Muñeco.png);
