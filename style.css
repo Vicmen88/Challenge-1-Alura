@@ -81,7 +81,7 @@ textarea {
   text-align: right;
   color: #495057;
 }
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 600px) {
   .logo {
     margin-left: 25%;
   }
